@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+<country> 
+<name>ROC 
+</name>
+<territory> 
+<EnglishName> Penshui </EnglishName>
+<officialLanguage> Chinese </officialLanguage>
+<year>
+<number> 1946-now </number></year>
+<statesment> The archipelago collectively forms PenhiuCounty of Taiwan </statesment> 
+<population>
+<number> about 100 thousand </number></population>
+</territory> 
+</country> 
+
+<country> 
+   <name>Japanese empire</name>
+<territory> 
+<EnglishName> Penshui </EnglishName>
+<officialLanguage> Japanses </officialLanguage>
+<year> <number> 
+1845-1945</number></year>
+<statesment> The archipelago collectively forms PenhiuCounty of Japan empire </statesment> 
+<population> <number>
+about 1 thousand </number></population>
+</territory>
+</country> 
+</countries>
